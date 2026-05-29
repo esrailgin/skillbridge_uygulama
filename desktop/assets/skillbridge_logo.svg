@@ -1,0 +1,26 @@
+<svg width="100%" height="100%" viewBox="0 0 520 520" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+  <rect width="520" height="520" fill="transparent"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M176 138 L206 96 L246 116 L282 82 L326 108 L356 78 L386 128" stroke="#1A8A83" stroke-width="3"/>
+    <path d="M176 138 L220 160 L246 116 L286 154 L326 108 L386 128" stroke="#1A8A83" stroke-width="2.4" opacity="0.8"/>
+    <path d="M206 96 L242 70 L282 82 L318 58 L356 78" stroke="#D1A153" stroke-width="2.4"/>
+    <path d="M220 160 L260 188 L286 154 L334 176 L386 128" stroke="#D1A153" stroke-width="2.4" opacity="0.9"/>
+    <circle cx="176" cy="138" r="8" fill="#1A8A83"/><circle cx="206" cy="96" r="7" fill="#D1A153"/>
+    <circle cx="242" cy="70" r="7" fill="#1A8A83"/><circle cx="246" cy="116" r="8" fill="#1A8A83"/>
+    <circle cx="282" cy="82" r="7" fill="#D1A153"/><circle cx="318" cy="58" r="8" fill="#1A8A83"/>
+    <circle cx="326" cy="108" r="8" fill="#1A8A83"/><circle cx="356" cy="78" r="7" fill="#D1A153"/>
+    <circle cx="386" cy="128" r="8" fill="#1A8A83"/><circle cx="220" cy="160" r="7" fill="#D1A153"/>
+    <circle cx="286" cy="154" r="7" fill="#1A8A83"/><circle cx="260" cy="188" r="7" fill="#D1A153"/>
+    <circle cx="334" cy="176" r="7" fill="#D1A153"/>
+  </g>
+  <path d="M238 158 C190 158 154 190 154 232 C154 265 176 286 214 296 L283 314" stroke="#1A8A83" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M283 314 C306 320 318 332 318 350 C318 372 298 388 267 388 C235 388 210 374 188 350" stroke="#D1A153" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M286 160 L286 386" stroke="#1A8A83" stroke-width="42" stroke-linecap="round"/>
+  <path d="M286 164 C355 164 394 193 394 238 C394 282 356 306 286 306" stroke="#1A8A83" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M286 250 C365 250 410 278 410 326 C410 374 365 400 286 400" stroke="#1A8A83" stroke-width="42" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M240 204 C218 204 202 216 202 234 C202 249 214 258 238 264" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" opacity="0.55"/>
+  <path d="M314 212 C346 216 363 226 363 242 C363 258 346 268 314 272" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" opacity="0.45"/>
+  <path d="M314 330 C350 334 370 346 370 366 C370 385 350 398 314 402" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round" opacity="0.38"/>
+  <text x="260" y="458" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="42" font-weight="800" fill="#113F3B">SkillBridge</text>
+  <text x="260" y="490" text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="16" font-weight="400" fill="#113F3B" opacity="0.82">Yeteneklerinizi Geliştirin, Başarıya Köprü Kurun</text>
+</svg>
